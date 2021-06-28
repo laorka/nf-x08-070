@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="260.32001"
+   height="165.65334"
+   viewBox="0 0 260.32001 165.65334"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24"><path
+         d="M 0,124.24 H 195.24 V 0 H 0 Z"
+         id="path22" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40"><path
+         d="M 0,124.24 H 195.24 V 0 H 0 Z"
+         id="path38" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,165.65333)"><path
+       d="M 0,0 H 195.24 V 124.24 H 0 Z"
+       style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path10" /><path
+       d="M 189.038,6.17 H 6.22 v 111.84 h 182.818 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path12" /><g
+       id="g14"
+       transform="translate(6.2202,118.01)"><path
+         d="M 0,0 182.818,-111.84"
+         style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" /></g><g
+       id="g18"><g
+         id="g20"
+         clip-path="url(#clipPath24)"><g
+           id="g26"
+           transform="translate(6.2202,118.01)"><path
+             d="M 0,0 182.818,-111.84"
+             style="fill:none;stroke:#0a0f0c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path28" /></g></g></g><g
+       id="g30"
+       transform="translate(189.0381,118.01)"><path
+         d="M 0,0 -182.818,-111.84"
+         style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path32" /></g><g
+       id="g34"><g
+         id="g36"
+         clip-path="url(#clipPath40)"><g
+           id="g42"
+           transform="translate(189.0381,118.01)"><path
+             d="M 0,0 -182.818,-111.84"
+             style="fill:none;stroke:#0a0f0c;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path44" /></g></g></g></g></svg>

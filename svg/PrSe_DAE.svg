@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="316"
+   height="316"
+   viewBox="0 0 316 316"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 0,237 H 237 V 0 H 0 Z"
+         id="path14" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,316)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><g
+           id="g18"
+           transform="translate(0,237)"><path
+             d="m 0,0 h 236.997 c 0,-78.999 0.011,-157.998 -0.01,-236.987 -78.989,-0.021 -157.988,-0.01 -236.987,-0.01 z"
+             style="fill:#1ea366;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" /></g><g
+           id="g22"
+           transform="translate(174,211.75)"><path
+             d="m 0,0 c 6.42,0 12.83,0.01 19.25,-0.01 v -18.73 c 6.25,-0.03 12.5,0 18.75,-0.01 0,-6.42 0.01,-12.84 -0.01,-19.25 -6.24,0 -12.49,0.01 -18.74,-0.01 -0.01,-6.33 0,-12.66 0,-18.99 -6.42,0.01 -12.84,-0.02 -19.26,0.02 0.01,6.33 0.02,12.65 0,18.98 -6.33,0 -12.65,0.01 -18.98,-0.01 -0.02,6.42 -0.01,12.84 -0.01,19.26 6.33,0.01 12.66,0 18.99,0 0.02,6.25 0,12.5 0.01,18.75"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" /></g><g
+           id="g26"
+           transform="translate(43.5298,152.4102)"><path
+             d="m 0,0 c 8.93,5.98 20.5,7.97 30.82,4.84 10,-2.73 18.27,-10.02 23.25,-18.98 4.92,9.29 13.65,16.57 23.881,19.18 9.869,2.78 20.809,0.89 29.409,-4.61 11.07,-6.9 17.69,-19.61 18.87,-32.41 1.17,-10.25 -2.1,-20.39 -6.83,-29.36 -5.55,-11.45 -13.529,-21.53 -22.609,-30.38 -12.991,-13.35 -27.351,-25.36 -42.771,-35.82 -18.53,12.61 -35.59,27.41 -50.58,44.09 -8.36,9.52 -14.88,20.63 -19.33,32.48 C -22.25,-33 -16.09,-10.76 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" /></g><g
+           id="g30"
+           transform="translate(69.1699,88.5898)"><path
+             d="M 0,0 C 15.31,17.05 30.26,34.44 45.7,51.37 39.71,37.86 33.21,24.58 27,11.16 35.19,11.141 43.39,11.2 51.58,11.13 36.98,-6.05 22.34,-23.189 7.61,-40.24 12.89,-26.77 18.64,-13.47 24.15,-0.08 16.1,-0.05 8.04,-0.189 0,0"
+             style="fill:#1ea366;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" /></g></g></g></g></svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="260.38531"
+   height="260.40668"
+   viewBox="0 0 260.38531 260.40668"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,195.305 H 195.289 V 0 H 0 Z"
+         id="path16" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,260.40667)"><path
+       d="M 0,0 H 195.289 V 195.305 H 0 Z"
+       style="fill:#040606;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path10" /><g
+       id="g12"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><g
+           id="g20"
+           transform="translate(1.6001,195.3045)"><path
+             d="m 0,0 h 191.7 c 1.12,-1.04 2.24,-2.22 1.94,-3.89 0.029,-62.39 0,-124.78 0.01,-187.17 0.12,-1.65 -0.47,-3.79 -2.4,-4.04 -3.27,-0.36 -6.56,-0.1 -9.84,-0.15 -58.35,-0.02 -116.69,0.03 -175.04,-0.03 -2.75,0.15 -6.2,-0.74 -7.97,2 V -1.69 C -0.21,-1.94 0.33,-1.37 0,0"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" /></g><path
+           d="M 6.25,189.055 H 189 V 6.305 H 6.25 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path24" /><g
+           id="g26"
+           transform="translate(54.6099,113.6844)"><path
+             d="M 0,0 C 5.83,7.6 16.17,11.35 25.53,9.3 33.86,7.75 40.95,1.68 44.26,-6.06 58.64,-2.11 73,1.96 87.38,5.89 90.75,7.25 93.16,1.9 90.041,0.24 75.2,-4.35 60.01,-7.82 45.23,-12.59 c 14.641,-0.74 29.34,0.03 44,-0.39 2.98,-0.57 2.94,-5.47 0,-6.05 -14.689,-0.36 -29.42,0.22 -44.12,-0.29 14.62,-4.77 29.65,-8.25 44.38,-12.67 3.71,-1.09 1.68,-7.34 -2.04,-5.89 -14.4,3.93 -28.76,7.981 -43.14,11.96 C 41.44,-32.21 36.36,-37.61 29.8,-40.04 20.14,-43.96 8.26,-41.27 1.32,-33.46 -7.24,-24.64 -7.69,-9.52 0,0"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" /></g><g
+           id="g30"
+           transform="translate(70.5,116.7044)"><path
+             d="m 0,0 c 7.49,1.96 15.89,-1.38 20.27,-7.68 3.21,-4.51 4.62,-10.42 3.16,-15.82 -1.8,-7.87 -8.85,-14.12 -16.89,-14.94 -10.9,-1.5 -21.73,8.01 -21.58,19.03 C -15.49,-10.44 -8.71,-1.92 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" /></g></g></g></g></svg>

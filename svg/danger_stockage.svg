@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="323.336"
+   height="200"
+   viewBox="0 0 323.336 200"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 0,150 H 242.502 V 0 H 0 Z"
+         id="path14" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,200)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><g
+           id="g18"
+           transform="translate(0,150)"><path
+             d="m 0,0 h 242.5 c 0,-41.42 0.01,-82.83 -0.01,-124.25 h -38.07 c -0.07,0.79 -0.2,2.37 -0.27,3.15 -7.73,0.17 -15.45,0.16 -23.17,0.02 -0.04,-0.79 -0.13,-2.37 -0.17,-3.16 -39.36,-0.01 -78.72,-0.01 -118.07,-0.01 -0.01,0.78 -0.03,2.32 -0.04,3.1 -7.87,0.27 -15.76,0.18 -23.63,0.08 -0.02,-0.79 -0.04,-2.38 -0.05,-3.17 -13.01,-0.03 -26.01,0 -39.02,-0.01 z"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" /></g><g
+           id="g22"
+           transform="translate(6.25,143.75)"><path
+             d="m 0,0 c 76.66,0.01 153.32,-0.01 229.97,0.01 0.06,-37.25 0.02,-74.51 0.03,-111.76 -76.67,0.01 -153.34,-0.02 -230.01,0.02 0.02,37.24 0,74.48 0.01,111.73"
+             style="fill:#efc521;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" /></g><g
+           id="g26"
+           transform="translate(39.0698,28.9297)"><path
+             d="m 0,0 c 7.87,0.101 15.76,0.19 23.63,-0.08 0.01,-0.779 0.03,-2.319 0.04,-3.1 -0.08,-8.58 0.22,-17.17 -0.17,-25.75 H 0.08 c -0.31,8.58 -0.1,17.18 -0.13,25.76 0.01,0.79 0.03,2.38 0.05,3.17"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" /></g><g
+           id="g30"
+           transform="translate(180.9805,28.9199)"><path
+             d="m 0,0 c 7.72,0.14 15.439,0.15 23.17,-0.02 0.069,-0.78 0.199,-2.36 0.269,-3.15 0.151,-8.58 0.111,-17.17 0,-25.75 H -0.2 c -0.021,8.59 -0.111,17.17 0.029,25.76 C -0.131,-2.37 -0.04,-0.79 0,0"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" /></g></g></g></g></svg>

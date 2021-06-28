@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="260.396"
+   height="260.40399"
+   viewBox="0 0 260.396 260.40399"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,195.303 H 195.297 V 0 H 0 Z"
+         id="path16" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,260.404)"><path
+       d="M 0,0 H 195.296 V 195.304 H 0 Z"
+       style="fill:#040606;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path10" /><g
+       id="g12"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><g
+           id="g20"
+           transform="translate(1.6602,195.3032)"><path
+             d="m 0,0 h 191.56 c 1.26,-0.96 2.339,-2.24 2.02,-3.95 0,-62.68 0.05,-125.38 -0.02,-188.06 0.169,-2.27 -2.17,-3.55 -4.18,-3.25 -62.36,0.03 -124.72,-0.01 -187.08,0.02 -1.71,-0.31 -3.01,0.75 -3.96,2.03 V -1.74 C -0.31,-1.9 0.24,-1.32 0,0"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" /></g><g
+           id="g24"
+           transform="translate(6.25,189.0532)"><path
+             d="m 0,0 c 60.92,0 121.83,-0.01 182.74,0 0.02,-60.91 0.01,-121.83 0.01,-182.75 -60.92,0 -121.84,-0.01 -182.75,0.01 C 0.01,-121.83 0,-60.92 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path26" /></g><g
+           id="g28"
+           transform="translate(94.5,167.8032)"><path
+             d="M 0,0 C 2.09,0 4.17,0 6.26,-0.01 6.25,-39.17 6.23,-78.34 6.27,-117.5 c 5.04,-1.65 8.87,-6.64 8.25,-12.06 -0.15,-6.81 -7.37,-12.05 -13.91,-10.35 -6,1.11 -10.01,7.5 -8.77,13.43 0.67,4.27 4.16,7.61 8.15,8.98 0.03,39.17 0,78.33 0.01,117.5"
+             style="fill:#0a0f0c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path30" /></g></g></g></g></svg>

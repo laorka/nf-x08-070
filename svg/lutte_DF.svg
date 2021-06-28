@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="252"
+   height="252"
+   viewBox="0 0 252 252"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,189 H 189 V 0 H 0 Z"
+         id="path16" /></clipPath></defs><g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,252)"><path
+       d="M 0,0 H 189 V 189 H 0 Z"
+       style="fill:#b71c2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path10" /><g
+       id="g12"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><g
+           id="g20"
+           transform="translate(110.5303,137.0098)"><path
+             d="m 0,0 c 18.739,-0.04 37.479,0.02 56.22,-0.02 0,-3.42 0,-6.83 -0.01,-10.24 -15,0 -29.99,0.01 -44.99,-0.01 0,-8.74 0.009,-17.49 -0.01,-26.23 13,-0.03 26.01,0 39.01,-0.01 0,-3.42 0,-6.83 -0.01,-10.25 -12.99,-0.01 -25.99,0.01 -38.99,0 -0.01,-12.84 0.009,-25.67 0,-38.5 -3.75,0 -7.5,0 -11.241,-0.01 C -0.03,-56.84 -0.061,-28.42 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path22" /></g><g
+           id="g24"
+           transform="translate(26.5,137)"><path
+             d="m 0,0 c 9.01,0.01 18.02,-0.01 27.03,0.01 7.46,-0.31 15.3,0.03 22.22,-3.24 9.04,-4.14 15.13,-13.09 17.56,-22.53 2.38,-9.03 2.51,-18.58 1.17,-27.79 -1.55,-9.59 -5.7,-19.26 -13.53,-25.37 -5.8,-4.41 -13.24,-5.97 -20.38,-6.31 -11.35,-0.05 -22.71,0 -34.06,-0.03 C -0.01,-56.84 0.01,-28.42 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path26" /></g><g
+           id="g28"
+           transform="translate(37.75,126.7402)"><path
+             d="m 0,0 c 9.22,-0.12 18.49,0.47 27.65,-0.83 6.88,-0.97 12.22,-6.34 15.1,-12.39 3.49,-7.46 3.48,-15.92 3.15,-23.98 -0.59,-7.611 -2.51,-15.611 -7.81,-21.37 -4.13,-4.54 -10.53,-5.87 -16.4,-6.151 C 14.47,-64.79 7.24,-64.7 0.02,-64.75 -0.02,-43.16 0.01,-21.58 0,0"
+             style="fill:#b71c2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path30" /></g></g></g></g></svg>
