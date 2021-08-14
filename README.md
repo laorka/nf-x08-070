@@ -1,5 +1,5 @@
 # Symboles norme NF X08-070
-Mise à disposition, sous licence libre, de symboles pour plans d'intervention et d'évacuation dessinés d'après la norme NF X08-070 de juin 2013.
+Mise à disposition, sous licence libre, de ressources pour plans d'intervention et d'évacuation d'après la norme NF X08-070 de juin 2013.
 
 **Acune garantie de conformité, rapprochez vous d'un spécialiste de la sécurité incendie si besoin.**
 
