@@ -10,3 +10,6 @@ Mise à disposition, sous licence libre, de ressources pour plans d'intervention
 * Amélioration de certains symboles
 * Amélioration classement
 * Wiki : description des symboles
+
+## English
+Ressources for fire emergency plans, based on french standard NF X08-070.
